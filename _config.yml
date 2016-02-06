@@ -1,0 +1,14 @@
+layout_spectrum: 0.155914
+typography_spectrum: 0.2544803
+color:
+  saturation: 0.6684588
+  lightness: 0
+  brandStrength: 0.9199309
+  brandColors:
+    - '#D8CEBC'
+    - '#E92743'
+    - '#313237'
+    - '#A4A292'
+    - '#6F6D66'
+  rhythmicContrast: 0.5609319
+name: Lyce
